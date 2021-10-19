@@ -1,0 +1,36 @@
+/*
+ * IncomeExpenses css File
+*/
+
+.incExpContainer {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 0;
+  background-color: #ffff;
+  border-radius: 1rem;
+
+  & > article {
+    text-align: center;
+    padding: 1rem;
+    flex: 1;
+
+    &:first-of-type {
+      border-right: 1px solid var(--textColor);
+    }
+  }
+
+  .money {
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin: 5px 0;
+  }
+
+  .money.plus {
+    color: #2ecc71;
+  }
+
+  .money.minus {
+    color: #c0392b;
+  }
+}
