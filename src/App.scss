@@ -157,6 +157,7 @@ select {
   font-size: 16px;
   --containerColor: #fafafa;
   --textColor: #262626;
+  --accentColor: #7a2b99;
 
   body {
     background-color: #f7f7f7;
@@ -166,6 +167,13 @@ select {
     justify-content: center;
     min-height: 100vh;
     font-family: "Noto Sans", sans-serif;
+  }
+
+  .mainWrapper {
+    width: 30vw;
+    padding: 2rem;
+    background-color: #fafafa;
+    border-radius: 1rem;
   }
 
   .container {
