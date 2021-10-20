@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/App-ingresos-y-gastos/static/css/main.becf1238.chunk.css",
+    "main.js": "/App-ingresos-y-gastos/static/js/main.c90369e1.chunk.js",
+    "main.js.map": "/App-ingresos-y-gastos/static/js/main.c90369e1.chunk.js.map",
+    "runtime-main.js": "/App-ingresos-y-gastos/static/js/runtime-main.416d7b76.js",
+    "runtime-main.js.map": "/App-ingresos-y-gastos/static/js/runtime-main.416d7b76.js.map",
+    "static/js/2.750c7278.chunk.js": "/App-ingresos-y-gastos/static/js/2.750c7278.chunk.js",
+    "static/js/2.750c7278.chunk.js.map": "/App-ingresos-y-gastos/static/js/2.750c7278.chunk.js.map",
+    "static/js/3.7a414b4f.chunk.js": "/App-ingresos-y-gastos/static/js/3.7a414b4f.chunk.js",
+    "static/js/3.7a414b4f.chunk.js.map": "/App-ingresos-y-gastos/static/js/3.7a414b4f.chunk.js.map",
+    "index.html": "/App-ingresos-y-gastos/index.html",
+    "static/css/main.becf1238.chunk.css.map": "/App-ingresos-y-gastos/static/css/main.becf1238.chunk.css.map",
+    "static/js/2.750c7278.chunk.js.LICENSE.txt": "/App-ingresos-y-gastos/static/js/2.750c7278.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416d7b76.js",
+    "static/js/2.750c7278.chunk.js",
+    "static/css/main.becf1238.chunk.css",
+    "static/js/main.c90369e1.chunk.js"
+  ]
+}
