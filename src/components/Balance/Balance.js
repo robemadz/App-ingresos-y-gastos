@@ -10,7 +10,7 @@ export const Balance = () => {
 
   return (
     <>
-      <h4>Tu dinero</h4>
+      <h4>Tu dinero:</h4>
       <h1>{total}€</h1>
     </>
   );
